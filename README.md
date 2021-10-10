@@ -11,3 +11,14 @@ Sound Classification, Image Classification, Convolution Neural Network, Convolut
 Convolution Neural Network:
 
 ![CNN](https://user-images.githubusercontent.com/59978350/136708574-33c5c613-c379-4c88-8055-e2abd9352972.png)
+
+Recurrent Convolution Neural Network:
+
+![CRNN](https://user-images.githubusercontent.com/59978350/136708663-1bf404b2-17d1-4098-8b6d-cd8b80a287a5.png)
+
+Parallel Recurrent Convolutional Neural Network:
+
+![PRCNN](https://user-images.githubusercontent.com/59978350/136708740-9a311d34-b623-4d32-b414-7ecc5189a2e7.png)
+
+
+
