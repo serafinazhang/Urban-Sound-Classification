@@ -12,7 +12,7 @@ Convolution Neural Network:
 
 ![CNN](https://user-images.githubusercontent.com/59978350/136708574-33c5c613-c379-4c88-8055-e2abd9352972.png)
 
-Recurrent Convolution Neural Network:
+Convolution Recurrent Neural Network:
 
 ![CRNN](https://user-images.githubusercontent.com/59978350/136708663-1bf404b2-17d1-4098-8b6d-cd8b80a287a5.png)
 
